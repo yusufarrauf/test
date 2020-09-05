@@ -1,0 +1,13 @@
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\bin\Debug\Nurhayati.exe.config
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\bin\Debug\Nurhayati.exe
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\bin\Debug\Nurhayati.pdb
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\bin\Debug\Nurhayati.xml
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.vbprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.Resources.resources
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.vbproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.vbproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.exe
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.xml
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.pdb
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.Question.resources
+C:\Users\yusuf\Desktop\Program TA\Nurhayati\obj\Debug\Nurhayati.Hasil.resources
