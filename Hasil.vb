@@ -6,6 +6,7 @@
     Public Q4 As String = "Tidak"
     Public SQ4 As String = ""
     Public Q5 As String = "Tidak"
+    Public Q6 As String = "Ya"
     Private Sub kalkulasi()
         Dim jenis, penyebab, solusi As String
         If Q1 = "Ya" Then
